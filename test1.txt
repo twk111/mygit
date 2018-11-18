@@ -2,3 +2,4 @@ git is  a free software
 a and b
  a rrrrr
  new line
+  new line2
