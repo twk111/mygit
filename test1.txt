@@ -2,4 +2,4 @@ git is  a free software
 a and b
 rrrrr
 add 1 line
-111111111
+merge
